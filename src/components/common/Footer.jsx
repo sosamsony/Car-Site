@@ -62,7 +62,8 @@ export const Footer = () => {
         </div>
         <div className='legal border-t bottom-1 border-gray-200 pt-5'>
           <div className='containers flex justify-between items-center'>
-            <p className='text-gray1 text-s'>© 2023 Sosamson Software.</p>
+            <p className='text-gray1 text-s'>© 2023 <a href="https://sosamson.com"  target = "_blank" 
+rel = "noopener noreferrer">Sosamson</a> Software</p>
             <div className='connect flex justify-between'>
               <h1 className='text-lg text-black font-semibold'>Connect : </h1>
               <div className='flex ml-5'>
